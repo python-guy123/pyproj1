@@ -1,0 +1,8 @@
+print("Hello world! \n")
+print("This is a ", end="test \n")
+print("This is printed in line 1.","\n" ,"And this is printed in line 2.  \n")
+print(6 ,"\n")
+print(6+3)
+num1 = int(input("Enter the first number to be added: "))
+num2 = int(input("Enter the second number to be added: "))
+print("The output is:", num1 + num2)
